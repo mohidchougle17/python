@@ -1,2 +1,2 @@
 # python
-This is a web scrapping project on clothing brand using python 
+This is a web scaping project on clothing brand using python 
